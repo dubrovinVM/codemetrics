@@ -1,0 +1,6 @@
+File name	Line	Function	Duration[ms]	Explored nodes
+D:\TestProjects\CohesionMetrics\CohesionMetrics\Cohesion\Food.cs	16	_CohesionMetrics.Cohesion.FoodHelper.EatFood$CohesionMetrics.Cohesion.Food$	0	3
+D:\TestProjects\CohesionMetrics\CohesionMetrics\Cohesion\Food.cs	21	_CohesionMetrics.Cohesion.FoodHelper.ReplenishFood$CohesionMetrics.Cohesion.Food$	0	3
+D:\TestProjects\CohesionMetrics\CohesionMetrics\Cohesion\HighCohesion.cs	13	_CohesionMetrics.Cohesion.HighCohesion.SumOfAB$$	0	2
+D:\TestProjects\CohesionMetrics\CohesionMetrics\Cohesion\HighCohesion.cs	18	_CohesionMetrics.Cohesion.HighCohesion.PrintValues$$	0	3
+D:\TestProjects\CohesionMetrics\CohesionMetrics\Program.cs	10	_CohesionMetrics.Program.Main$string$$$	0	2

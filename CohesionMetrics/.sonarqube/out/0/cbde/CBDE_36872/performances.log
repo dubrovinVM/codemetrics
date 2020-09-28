@@ -1,0 +1,20 @@
+D:\TestProjects\CohesionMetrics\CohesionMetrics\Cohesion\Food.cs
+EatFood 7
+EatFood 0
+ReplenishFood 5
+ReplenishFood 0
+
+D:\TestProjects\CohesionMetrics\CohesionMetrics\Cohesion\HighCohesion.cs
+SumOfAB 6
+SumOfAB 0
+PrintValues 6
+PrintValues 0
+
+D:\TestProjects\CohesionMetrics\CohesionMetrics\Program.cs
+Main 6
+Main 0
+
+D:\TestProjects\CohesionMetrics\CohesionMetrics\Properties\AssemblyInfo.cs
+
+D:\TestProjects\CohesionMetrics\CohesionMetrics\obj\Debug\.NETFramework,Version=v4.7.2.AssemblyAttributes.cs
+

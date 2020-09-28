@@ -1,0 +1,7 @@
+D:\TestProjects\CohesionMetrics\CohesionMetrics\bin\Debug\CohesionMetrics.exe.config
+D:\TestProjects\CohesionMetrics\CohesionMetrics\bin\Debug\CohesionMetrics.exe
+D:\TestProjects\CohesionMetrics\CohesionMetrics\bin\Debug\CohesionMetrics.pdb
+D:\TestProjects\CohesionMetrics\CohesionMetrics\obj\Debug\CohesionMetrics.csproj.CoreCompileInputs.cache
+D:\TestProjects\CohesionMetrics\CohesionMetrics\obj\Debug\CohesionMetrics.exe
+D:\TestProjects\CohesionMetrics\CohesionMetrics\obj\Debug\CohesionMetrics.pdb
+D:\TestProjects\CohesionMetrics\CohesionMetrics\obj\Debug\CohesionMetrics.csprojAssemblyReference.cache
